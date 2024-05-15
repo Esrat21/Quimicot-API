@@ -1,0 +1,84 @@
+{
+    "Simbolo": "Cn",
+    "Nome": "Copernício",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 12,
+        "Nome": "Grupo do zinco"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "5f14 6d10 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 0
+        },
+        "l": {
+            "s": 0,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 14
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 10
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 112,
+    "Composição do átomo": {
+        "Elétrons": 112,
+        "Nêutrons": 173,
+        "Prótons": 112
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 285,
+            "max": 285
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 170,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 27.3,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Seu ponto de fusão seria mais baixo que o do mercúrio, seguindo a tendência observada na família 2B. Entretanto, ainda não se conhecem compostos do copernício, pois o elemento foi obtido em quantidades extremamente pequenas (cerca de 6 átomos), e seu tempo de desintegração é de apenas alguns nanossegundos, tempo curto demais para seus compostos serem isolados antes do elemento decair a elementos mais estáveis. Aliás, os possíveis compostos do copernício seriam decompostos pelos efeitos da própria radiação do elemento (autorradiólise)."
+    },
+    "Ponto de Ebulição": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Ainda não se conhecem compostos do copernício, pois o elemento foi obtido em quantidades extremamente pequenas (cerca de 6 átomos), e seu tempo de desintegração é de apenas alguns nanossegundos, tempo curto demais para seus compostos serem isolados antes do elemento decair a elementos mais estáveis. Aliás, os possíveis compostos do copernício seriam decompostos pelos efeitos da própria radiação do elemento (autorradiólise)."
+    },
+    "Eletronegatividade": {
+        "Valor": null,
+        "Unidade De Medida": "eV",
+        "Motivo": "Ainda não se conhecem compostos do copernício, pois o elemento foi obtido em quantidades extremamente pequenas (cerca de 6 átomos), e seu tempo de desintegração é de apenas alguns nanossegundos, tempo curto demais para seus compostos serem isolados antes do elemento decair a elementos mais estáveis. Aliás, os possíveis compostos do copernício seriam decompostos pelos efeitos da própria radiação do elemento (autorradiólise)."
+    }
+}

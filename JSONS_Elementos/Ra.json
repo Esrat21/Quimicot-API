@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Ra",
+    "Nome": "Rádio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 2,
+        "Nome": "Metais alcalino-terrosos"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "p": {
+            "s": 2,
+            "p": 6,
+            "d": 0
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalino-terrosos",
+    "Número atômico": 88,
+    "Composição do átomo": {
+        "Elétrons": 88,
+        "Nêutrons": 138,
+        "Prótons": 88
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 226,
+            "max": 226
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": null,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 5.5 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 700 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 1737 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0.9 ,
+        "Unidade De Medida": "eV"
+    }
+}

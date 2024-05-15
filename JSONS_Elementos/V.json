@@ -1,0 +1,81 @@
+{
+    "Simbolo": "V",
+    "Nome": "Vanádio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 5,
+        "Nome": "Grupo do vanádio"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d3 4s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 3
+        },
+        "n": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 23,
+    "Composição do átomo": {
+        "Elétrons": 23,
+        "Nêutrons": 28,
+        "Prótons": 23
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 50.9415,
+            "max": 50.9415
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 134 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 6.11 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1910 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 3407 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.63 ,
+        "Unidade De Medida": "eV"
+    }
+}

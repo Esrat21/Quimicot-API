@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Fr",
+    "Nome": "Frâncio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 1,
+        "Nome": "Metais alcalinos"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 7s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "p": {
+            "s": 2,
+            "p": 6,
+            "d": 0
+        },
+        "q": {
+            "s": 1,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalinos",
+    "Número atômico": 87,
+    "Composição do átomo": {
+        "Elétrons": 87,
+        "Nêutrons": 136,
+        "Prótons": 87
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 223,
+            "max": 223
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 260 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 1.87,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 23,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor":677,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0.7,
+        "Unidade De Medida": "eV"
+    }
+}

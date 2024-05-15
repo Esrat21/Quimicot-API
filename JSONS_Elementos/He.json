@@ -1,0 +1,81 @@
+{
+    "Simbolo": "He",
+    "Nome": "Hélio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 18,
+        "Nome": "Gases nobres"
+    },
+    "Período": 1,
+    "Configuração eletrônica": "",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 0,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Gás nobre",
+    "Subgrupo": "Gases nobres",
+    "Número atômico": 2,
+    "Composição do átomo": {
+        "Elétrons": 2,
+        "Nêutrons": 0,
+        "Prótons": 2
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 4.002602,
+            "max": 4.002602
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 31,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.0001785,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -272.2,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -268.93,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0,
+        "Unidade De Medida": "eV"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Simbolo": "At",
+    "Nome": "Astato",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 17,
+        "Nome": "Halogênios"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p5",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "p": {
+            "s": 2,
+            "p": 5,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Halogênios",
+    "Número atômico": 85,
+    "Composição do átomo": {
+        "Elétrons": 85,
+        "Nêutrons": 125,
+        "Prótons": 85
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 209.9871,
+            "max": 210.0
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 127,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 7,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 302,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 337 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.2 ,
+        "Unidade De Medida": "eV"
+    }
+}

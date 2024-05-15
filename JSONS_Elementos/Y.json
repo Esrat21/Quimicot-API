@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Y",
+    "Nome": "Ítrio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 3,
+        "Nome": "Grupo do escândio"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d1 5s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 1,
+            "f": 0
+        },
+        "o": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 39,
+    "Composição do átomo": {
+        "Elétrons": 39,
+        "Nêutrons": 50,
+        "Prótons": 39
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 88.90585,
+            "max": 88.90585
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 180 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 4.469 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1526 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 3336 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.22 ,
+        "Unidade De Medida": "eV"
+    }
+}

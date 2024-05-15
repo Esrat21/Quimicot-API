@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Rh",
+    "Nome": "Ródio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 9,
+        "Nome": "Grupo do cobalto"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d8 5s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 8,
+            "f": 0
+        },
+        "o": {
+            "s": 1,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 45,
+    "Composição do átomo": {
+        "Elétrons": 45,
+        "Nêutrons": 58,
+        "Prótons": 45
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 102.9055,
+            "max": 102.9055
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 134 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 12.41 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1964 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 3695 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.28 ,
+        "Unidade De Medida": "eV"
+    }
+}

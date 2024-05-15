@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Bh",
+    "Nome": "Bóhrio",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 7,
+        "Nome": "Grupo do manganês"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d5 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "p": {
+            "s": 2,
+            "p": 6,
+            "d": 5
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 107,
+    "Composição do átomo": {
+        "Elétrons": 107,
+        "Nêutrons": 157,
+        "Prótons": 107
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 270,
+            "max": 270
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 128,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 37,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": null,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": null,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": null,
+        "Unidade De Medida": "eV"
+    }
+}

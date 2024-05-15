@@ -1,0 +1,81 @@
+{
+    "Simbolo": "F",
+    "Nome": "Flúor",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 17,
+        "Nome": "Halogênios"
+    },
+    "Período": 2,
+    "Configuração eletrônica": "1s2 2s2 2p5",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 5
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Halogênios",
+    "Número atômico": 9,
+    "Composição do átomo": {
+        "Elétrons": 9,
+        "Nêutrons": 10,
+        "Prótons": 9
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min":18.9984032,
+            "max":18.9984032
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 42 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.001696 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -219.62,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -188.12,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 3.98,
+        "Unidade De Medida": "eV"
+    }
+}

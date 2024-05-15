@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Kr",
+    "Nome": "Criptônio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 18,
+        "Nome": "Gases nobres"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Gás nobre",
+    "Subgrupo": "Gases nobres",
+    "Número atômico": 36,
+    "Composição do átomo": {
+        "Elétrons": 36,
+        "Nêutrons": 48,
+        "Prótons": 36
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 83.798,
+            "max": 83.798
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 88 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.003733 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -157.36,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -153.22,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 3.00 ,
+        "Unidade De Medida": "eV"
+    }
+}

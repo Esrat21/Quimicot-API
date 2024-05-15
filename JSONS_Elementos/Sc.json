@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Sc",
+    "Nome": "Escândio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 3,
+        "Nome": "Grupo do escândio"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d1 4s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 1
+        },
+        "n": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 21,
+    "Composição do átomo": {
+        "Elétrons": 21,
+        "Nêutrons": 24,
+        "Prótons": 21
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 44.955912,
+            "max": 44.955912
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 162 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 2.989 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1541 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2836 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.36 ,
+        "Unidade De Medida": "eV"
+    }
+}

@@ -1,0 +1,8 @@
+composer i
+
+cd .\public_html\
+php -S localhost:80
+
+error_log(print_r(, TRUE));
+
+//__TODO__

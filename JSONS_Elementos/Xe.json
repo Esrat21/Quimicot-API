@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Xe",
+    "Nome": "Xenônio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 18,
+        "Nome": "Gases nobres"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Gás nobre",
+    "Subgrupo": "Gases nobres",
+    "Número atômico": 54,
+    "Composição do átomo": {
+        "Elétrons": 54,
+        "Nêutrons": 77,
+        "Prótons": 54
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 131.293,
+            "max": 131.293
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 108 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.005887 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -111.7,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -108.12,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.6 ,
+        "Unidade De Medida": "eV"
+    }
+}

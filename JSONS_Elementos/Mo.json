@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Mo",
+    "Nome": "Molibdênio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 6,
+        "Nome": "Grupo do crômio"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d5 5s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 5,
+            "f": 0
+        },
+        "o": {
+            "s": 1,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 42,
+    "Composição do átomo": {
+        "Elétrons": 42,
+        "Nêutrons": 54,
+        "Prótons": 42
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 95.96,
+            "max": 95.96
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 139 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 10.22 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 2623 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 4639,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.16 ,
+        "Unidade De Medida": "eV"
+    }
+}

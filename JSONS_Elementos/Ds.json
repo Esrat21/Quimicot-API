@@ -1,0 +1,84 @@
+{
+    "Simbolo": "Ds",
+    "Nome": "Darmstádio",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 10,
+        "Nome": "Grupo do níquel"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "5f14 6d8 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 0
+        },
+        "l": {
+            "s": 0,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 14
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 8
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 110,
+    "Composição do átomo": {
+        "Elétrons": 110,
+        "Nêutrons": 171,
+        "Prótons": 110
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 281,
+            "max": 281
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 118,
+        "Unidade De Medida": "(presumido) pm"
+    },
+    "Densidade": {
+        "Valor": 34.8,
+        "Unidade De Medida": "(presumido) g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor Desconhecido"
+    },
+    "Ponto de Ebulição": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor Desconhecido"
+    },
+    "Eletronegatividade": {
+        "Valor": null,
+        "Unidade De Medida": "eV",
+        "Motivo": "Valor Desconhecido"
+    }
+}

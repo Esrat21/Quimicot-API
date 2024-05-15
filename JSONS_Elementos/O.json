@@ -1,0 +1,81 @@
+{
+    "Simbolo": "O",
+    "Nome": "Oxigênio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 16,
+        "Nome": "Calcogênios"
+    },
+    "Período": 2,
+    "Configuração eletrônica": "1s2 2s2 2p4",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 4
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Não metais",
+    "Número atômico": 8,
+    "Composição do átomo": {
+        "Elétrons": 8,
+        "Nêutrons": 8,
+        "Prótons": 8
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 15.9994,
+            "max": 15.9994
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 48,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.001429 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -218.79,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -182.95,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 3.44 ,
+        "Unidade De Medida": "eV"
+    }
+}

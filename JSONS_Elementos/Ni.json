@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Ni",
+    "Nome": "Níquel",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 10,
+        "Nome": "Grupo do níquel"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d8 4s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 8
+        },
+        "n": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 28,
+    "Composição do átomo": {
+        "Elétrons": 28,
+        "Nêutrons": 31,
+        "Prótons": 28
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 58.6934,
+            "max": 58.6934
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 124 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 8.912 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1455 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2913 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.91 ,
+        "Unidade De Medida": "eV"
+    }
+}

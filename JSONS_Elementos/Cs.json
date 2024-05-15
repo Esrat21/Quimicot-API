@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Cs",
+    "Nome": "Césio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 1,
+        "Nome": "Metais alcalinos"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 6s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 1,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalinos",
+    "Número atômico": 55,
+    "Composição do átomo": {
+        "Elétrons": 55,
+        "Nêutrons": 78,
+        "Prótons": 55
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 132.9054519,
+            "max": 132.9054519
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 265 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 1.873,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 28.44 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 671,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0.79,
+        "Unidade De Medida": "eV"
+    }
+}

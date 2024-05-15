@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Pt",
+    "Nome": "Platina",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 10,
+        "Nome": "Grupo do níquel"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d9 6s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 9,
+            "f": 0
+        },
+        "p": {
+            "s": 1,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 78,
+    "Composição do átomo": {
+        "Elétrons": 78,
+        "Nêutrons": 117,
+        "Prótons": 78
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 195.084,
+            "max": 195.084
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 139 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 21.45 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1768.3 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 3825 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.28 ,
+        "Unidade De Medida": "eV"
+    }
+}

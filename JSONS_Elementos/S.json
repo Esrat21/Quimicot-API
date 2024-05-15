@@ -1,0 +1,81 @@
+{
+    "Simbolo": "S",
+    "Nome": "Enxofre",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 16,
+        "Nome": "Calcogênios"
+    },
+    "Período": 3,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p4",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 4,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Não metais",
+    "Número atômico": 16,
+    "Composição do átomo": {
+        "Elétrons": 16,
+        "Nêutrons": 16,
+        "Prótons": 16
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 32.065,
+            "max": 32.065
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 88 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 2.067 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 115.21 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 444.65 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.58 ,
+        "Unidade De Medida": "eV"
+    }
+}

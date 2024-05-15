@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Bk",
+    "Nome": "Berquélio",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 3,
+        "Nome": "Grupo do escândio"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f9 6d0 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 9
+        },
+        "p": {
+            "s": 2,
+            "p": 6,
+            "d": 0
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Actinídios",
+    "Número atômico": 97,
+    "Composição do átomo": {
+        "Elétrons": 97,
+        "Nêutrons": 150,
+        "Prótons": 97
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 247,
+            "max": 247
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 170,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 14.78 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 986 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2900 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.3 ,
+        "Unidade De Medida": "eV"
+    }
+}

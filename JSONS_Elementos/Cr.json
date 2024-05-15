@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Cr",
+    "Nome": "Crômio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 6,
+        "Nome": "Grupo do crômio"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d5 4s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 5
+        },
+        "n": {
+            "s": 1,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 24,
+    "Composição do átomo": {
+        "Elétrons": 24,
+        "Nêutrons": 28,
+        "Prótons": 24
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 51.9961,
+            "max": 51.9961
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 128 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 7.15,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1907 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2671,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.66,
+        "Unidade De Medida": "eV"
+    }
+}

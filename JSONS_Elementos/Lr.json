@@ -1,0 +1,83 @@
+{
+    "Simbolo": "Lr",
+    "Nome": "Laurêncio",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 3,
+        "Nome": "Grupo do escândio"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d1 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "p": {
+            "s": 2,
+            "p": 6,
+            "d": 1
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Actinídios",
+    "Número atômico": 103,
+    "Composição do átomo": {
+        "Elétrons": 103,
+        "Nêutrons": 159,
+        "Prótons": 103
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 262,
+            "max": 262
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 200,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": null,
+        "Unidade De Medida": "g/cm³",
+        "Motivo": "Valor desconhecido"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1626.85 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor desconhecido"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.3,
+        "Unidade De Medida": "eV"
+    }
+}

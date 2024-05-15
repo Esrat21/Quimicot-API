@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Ir",
+    "Nome": "Irídio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 9,
+        "Nome": "Grupo do cobalto"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d7 6s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 7,
+            "f": 0
+        },
+        "p": {
+            "s": 2,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 77,
+    "Composição do átomo": {
+        "Elétrons": 77,
+        "Nêutrons": 115,
+        "Prótons": 77
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 192.217,
+            "max": 192.217
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 136 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 22.56 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 2466 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 4428 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.2 ,
+        "Unidade De Medida": "eV"
+    }
+}

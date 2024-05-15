@@ -1,0 +1,82 @@
+{
+    "Simbolo": "Ne",
+    "Nome": "Neônio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 18,
+        "Nome": "Gases nobres"
+    },
+    "Período": 2,
+    "Configuração eletrônica": "",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Gás nobre",
+    "Subgrupo": "Gases nobres",
+    "Número atômico": 10,
+    "Composição do átomo": {
+        "Elétrons": 10,
+        "Nêutrons": 10,
+        "Prótons": 10
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 20.1797,
+            "max": 20.1797,
+            "mean": 20.1797
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 38,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.0008999,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -248.6,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -246,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0,
+        "Unidade De Medida": "eV"
+    }
+}

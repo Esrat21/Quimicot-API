@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Ge",
+    "Nome": "Germânio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 14,
+        "Nome": "Grupo do carbono"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 2,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Semimetais",
+    "Número atômico": 32,
+    "Composição do átomo": {
+        "Elétrons": 32,
+        "Nêutrons": 41,
+        "Prótons": 32
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 72.63,
+            "max": 72.63
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 122 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 5.323 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 938.25 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2833 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.01,
+        "Unidade De Medida": "eV"
+    }
+}

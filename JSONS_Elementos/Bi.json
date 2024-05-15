@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Bi",
+    "Nome": "Bismuto",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 15,
+        "Nome": "Grupo do nitrogênio"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p3",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "p": {
+            "s": 2,
+            "p": 3,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Outros metais",
+    "Número atômico": 83,
+    "Composição do átomo": {
+        "Elétrons": 83,
+        "Nêutrons": 126,
+        "Prótons": 83
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 208.9804,
+            "max": 208.9804
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 156,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 9.78,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 271.5 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 1564 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.02,
+        "Unidade De Medida": "eV"
+    }
+}

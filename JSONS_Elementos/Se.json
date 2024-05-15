@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Se",
+    "Nome": "Selênio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 16,
+        "Nome": "Calcogênios"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p4",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 4,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Não metais",
+    "Número atômico": 34,
+    "Composição do átomo": {
+        "Elétrons": 34,
+        "Nêutrons": 45,
+        "Prótons": 34
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 78.96,
+            "max": 78.96
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 120 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 4.809 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 221 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 685 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.55 ,
+        "Unidade De Medida": "eV"
+    }
+}

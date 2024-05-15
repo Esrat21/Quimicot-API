@@ -1,0 +1,20 @@
+PHPUnit 9.5.0 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.0.6
+Configuration: C:\Users\yanpe\Documents\GitHub\ChemicalAPI\phpunit.xml
+
+....                                                                4 / 4 (100%)
+
+Time: 00:01.744, Memory: 6.00 MB
+
+OK (4 tests, 121 assertions)
+PHPUnit 9.5.0 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.0.6
+Configuration: C:\Users\yanpe\Documents\GitHub\ChemicalAPI\phpunit.xml
+
+........................................                          40 / 40 (100%)
+
+Time: 00:07.028, Memory: 8.00 MB
+
+OK (40 tests, 712 assertions)

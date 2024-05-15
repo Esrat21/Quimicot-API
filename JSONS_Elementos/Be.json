@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Be",
+    "Nome": "Berílio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 2,
+        "Nome": "Metais alcalino-terrosos"
+    },
+    "Período": 2,
+    "Configuração eletrônica": "1s2 2s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalino-terrosos",
+    "Número atômico": 4,
+    "Composição do átomo": {
+        "Elétrons": 4,
+        "Nêutrons": 5,
+        "Prótons": 4
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 9.012182,
+            "max": 9.012182
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 112,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 1.85,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1287,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2469,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.57 ,
+        "Unidade De Medida": "eV"
+    }
+}

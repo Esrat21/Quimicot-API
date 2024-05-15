@@ -1,0 +1,85 @@
+{
+    "Simbolo": "Lv",
+    "Nome": "Livermório",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 16,
+        "Nome": "Calcogênios"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "5f14 6d10 7s2 7p4",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 0
+        },
+        "l": {
+            "s": 0,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 14
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 10
+        },
+        "q": {
+            "s": 2,
+            "p": 4
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Outros metais",
+    "Número atômico": 116,
+    "Composição do átomo": {
+        "Elétrons": 116,
+        "Nêutrons": 175,
+        "Prótons": 116
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 293,
+            "max": 293
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": null,
+        "Unidade De Medida": "pm",
+        "Motivo": "Valor desconhecido"
+    },
+    "Densidade": {
+        "Valor": 12.9,
+        "Unidade De Medida": "(estimado) g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor desconhecido"
+    },
+    "Ponto de Ebulição": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor desconhecido"
+    },
+    "Eletronegatividade": {
+        "Valor": null,
+        "Unidade De Medida": "eV",
+        "Motivo": "Valor desconhecido"
+    }
+}

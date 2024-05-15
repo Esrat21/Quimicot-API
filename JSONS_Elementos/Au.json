@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Au",
+    "Nome": "Ouro",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 11,
+        "Nome": "Grupo do cobre"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 10,
+            "d": 0,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "p": {
+            "s": 1,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 79,
+    "Composição do átomo": {
+        "Elétrons": 79,
+        "Nêutrons": 118,
+        "Prótons": 79
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 196.96654,
+            "max": 196.96654
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 174,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 19.32,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1064.43,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2966,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.4,
+        "Unidade De Medida": "eV"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Co",
+    "Nome": "Cobalto",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 9,
+        "Nome": "Grupo do cobalto"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d7 4s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 7
+        },
+        "n": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 27,
+    "Composição do átomo": {
+        "Elétrons": 27,
+        "Nêutrons": 32,
+        "Prótons": 27
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 58.933195,
+            "max": 58.933195
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 125,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 8.86,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1495 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2927 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.88,
+        "Unidade De Medida": "eV"
+    }
+}

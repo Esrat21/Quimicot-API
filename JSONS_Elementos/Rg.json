@@ -1,0 +1,84 @@
+{
+    "Simbolo": "Rg",
+    "Nome": "Roentgênio",
+    "Tipo": "Sintético",
+    "Grupo": {
+        "Coluna": 11,
+        "Nome": "Grupo do cobre"
+    },
+    "Período": 7,
+    "Configuração eletrônica": "5f14 6d9 7s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 0
+        },
+        "l": {
+            "s": 0,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 14
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 9
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 111,
+    "Composição do átomo": {
+        "Elétrons": 111,
+        "Nêutrons": 170,
+        "Prótons": 111
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 281,
+            "max": 281
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 114,
+        "Unidade De Medida": "(presumido) pm"
+    },
+    "Densidade": {
+        "Valor": 28.7,
+        "Unidade De Medida": "(presumido) g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor desconhecido"
+    },
+    "Ponto de Ebulição": {
+        "Valor": null,
+        "Unidade De Medida": "°C",
+        "Motivo": "Valor desconhecido"
+    },
+    "Eletronegatividade": {
+        "Valor": null,
+        "Unidade De Medida": "eV",
+        "Motivo": "Valor desconhecido"
+    }
+}

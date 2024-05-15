@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Mn",
+    "Nome": "Manganês",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 7,
+        "Nome": "Grupo do manganês"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d5 4s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 5
+        },
+        "n": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 25,
+    "Composição do átomo": {
+        "Elétrons": 25,
+        "Nêutrons": 30,
+        "Prótons": 25
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 54.938045,
+            "max": 54.938045
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 127 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 7.44 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1246 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2061 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.55 ,
+        "Unidade De Medida": "eV"
+    }
+}

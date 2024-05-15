@@ -1,0 +1,82 @@
+{
+    "Simbolo": "Rn",
+    "Nome": "Radônio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 18,
+        "Nome": "Gases nobres"
+    },
+    "Período": 6,
+    "Configuração eletrônica": "",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 14
+        },
+        "o": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "p": {
+            "s": 2,
+            "p": 6,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Gás nobre",
+    "Subgrupo": "Gases nobres",
+    "Número atômico": 86,
+    "Composição do átomo": {
+        "Elétrons": 86,
+        "Nêutrons": 136,
+        "Prótons": 86
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 222,
+            "max": 222,
+            "mean": 222
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 134,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.00973,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -71,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -61.7,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.2,
+        "Unidade De Medida": "eV"
+    }
+}

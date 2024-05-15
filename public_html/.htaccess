@@ -1,0 +1,14 @@
+#<IfModule mod_rewrite.c>
+#   RewriteEngine on
+#   RewriteRule ^$ 127.0.0.1/ [L]
+#   RewriteRule (^[^/]*$) 127.0.0.1/$1 [L]
+#</IfModule>
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^index\.php$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.php [L]
+    RewriteRule .* - [env=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>

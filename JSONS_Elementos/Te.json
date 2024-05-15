@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Te",
+    "Nome": "Telúrio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 16,
+        "Nome": "Calcogênios"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p4",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "o": {
+            "s": 2,
+            "p": 4,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Semimetais",
+    "Número atômico": 52,
+    "Composição do átomo": {
+        "Elétrons": 52,
+        "Nêutrons": 76,
+        "Prótons": 52
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 127.6,
+            "max": 127.6
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 140 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 6.232 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 449.51 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 988 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.1 ,
+        "Unidade De Medida": "eV"
+    }
+}

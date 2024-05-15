@@ -1,0 +1,81 @@
+{
+    "Simbolo": "C",
+    "Nome": "Carbono",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 14,
+        "Nome": "Grupo do carbono"
+    },
+    "Período": 2,
+    "Configuração eletrônica": "1s2 2s2 2p2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 2
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Não metais",
+    "Número atômico": 6,
+    "Composição do átomo": {
+        "Elétrons": 6,
+        "Nêutrons": 6,
+        "Prótons": 6
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 12.0107,
+            "max": 12.0107
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 67,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 2.267,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 3675 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 4027 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 2.55,
+        "Unidade De Medida": "eV"
+    }
+}

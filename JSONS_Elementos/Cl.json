@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Cl",
+    "Nome": "Cloro",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 17,
+        "Nome": "Halogênios"
+    },
+    "Período": 3,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p5",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 5,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Ametal",
+    "Subgrupo": "Halogênios",
+    "Número atômico": 17,
+    "Composição do átomo": {
+        "Elétrons": 17,
+        "Nêutrons": 18,
+        "Prótons": 17
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 35.453,
+            "max": 35.453
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 79,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.003214,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -101.5,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -34.04,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 3.16,
+        "Unidade De Medida": "eV"
+    }
+}

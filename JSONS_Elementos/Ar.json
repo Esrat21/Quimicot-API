@@ -1,0 +1,82 @@
+{
+    "Simbolo": "Ar",
+    "Nome": "Argônio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 18,
+        "Nome": "Gases nobres"
+    },
+    "Período": 3,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 2,
+            "p": 0
+        }
+    },
+    "Classificação": "Gás nobre",
+    "Subgrupo": "Gases nobres",
+    "Número atômico": 18,
+    "Composição do átomo": {
+        "Elétrons": 18,
+        "Nêutrons": 22,
+        "Prótons": 18
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 39.792,
+            "max": 39.963,
+            "mean": 39.948
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 71,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.0017824,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": -189.35,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": -185.85,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0,
+        "Unidade De Medida": "eV"
+    }
+}

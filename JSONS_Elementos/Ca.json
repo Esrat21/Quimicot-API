@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Ca",
+    "Nome": "Cálcio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 2,
+        "Nome": "Metais alcalino-terrosos"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 4s2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 0
+        },
+        "n": {
+            "s": 2,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalino-terrosos",
+    "Número atômico": 20,
+    "Composição do átomo": {
+        "Elétrons": 20,
+        "Nêutrons": 20,
+        "Prótons": 20
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min":40.078,
+            "max": 40.078
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 197,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 1.54,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 842 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 1484 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.0,
+        "Unidade De Medida": "eV"
+    }
+}

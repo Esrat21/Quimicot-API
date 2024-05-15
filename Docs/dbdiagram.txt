@@ -1,0 +1,133 @@
+Table Professor as P [headercolor: #3498db] {
+  id int [pk, increment]
+  nome varchar
+  email varchar(255) [unique, not null]
+  cpf varchar(14) [unique, not null]
+  telefone varchar
+  senha varchar
+  cad_pendente boolean [default: true]
+}
+
+Table Aluno as A [headercolor: #3498db] {
+  id int [pk, increment]
+  nome varchar
+  senha varchar
+  email varchar(255) [unique, not null]
+}
+
+Table Aluno_Turma as AT {
+  id int [pk, increment]
+  aluno int [not null]
+  turma int [not null]
+  dados_aluno json
+  dados_turma json
+}
+
+Ref: AT.aluno > A.id [delete: cascade]
+Ref: AT.turma > T.id [delete: cascade]
+
+Table Turma as T [headercolor: #2c3e50] {
+  id int [pk, increment]
+  nome varchar
+  ano year
+  escola int [not null]
+  professor int [not null]
+  senha varchar
+}
+
+Ref: T.escola > E.id [delete: cascade]
+Ref: T.professor > P.id [delete: cascade]
+
+Table Escola as E [headercolor: #2c3e50] {
+  id int [pk, increment]
+  nome varchar
+}
+
+Table Professor_Escola as PE [headercolor: #222] {
+  id int [pk, increment]
+  escola int [not null]
+  professor int [not null]
+}
+
+Ref: PE.escola > E.id [delete: cascade]
+Ref: PE.professor > P.id [delete: cascade]
+
+Table Turma_Fase as T_F [headercolor: #f39c12] {
+  id int [pk, increment]
+  turma int [pk]
+  fase int [pk]
+}
+
+Ref: T_F.turma > T.id [delete: cascade]
+Ref: T_F.fase > F.id [delete: cascade]
+
+Table Fase as F [headercolor: #16a085] {
+  id int [pk, increment]
+  nome varchar [not null]
+  url text [not null]
+  criador varchar [not null]
+  dificuldade char [not null]
+  tempo_medio_seg int
+  contem json
+  vars json
+}
+
+Table Resposta as R [headercolor: #27ae60] {
+  id int [pk, increment]
+  escolha int [not null]
+  data_hora datetime [default: `current_timestamp()`]
+  certo boolean
+  quiz int [not null]
+  aluno int [not null]
+}
+
+Ref: R.escolha > Alt.id [delete: cascade]
+Ref: R.quiz > Q.id [delete: cascade]
+Ref: R.aluno > A.id [delete: cascade]
+
+Table Quiz as Q [headercolor: #8e44ad] {
+  id int [pk, increment]
+  turma_fase int [not null]
+  pergunta text [not null]
+}
+
+Ref: Q.turma_fase > T_F.id [delete: cascade]
+
+Table Alternativa as Alt [headercolor: #8e44ad] {
+  id int [pk, increment]
+  quiz int [not null]
+  alt_correta boolean [not null]
+  descricao text [not null]
+  justificativa text
+}
+
+Ref: Alt.quiz > Q.id [delete: cascade]
+
+Table Log as L [headercolor: #c0392b] {
+  id int [pk, increment]
+  aluno int [not null]
+  turma_fase int [not null]
+  detalhes varchar [not null]
+  objeto json
+  tipo varchar [not null]
+  comeco datetime [not null]
+  fim datetime [default: `current_timestamp()`]
+}
+
+Ref: L.aluno > A.id [delete: cascade]
+Ref: L.turma_fase > T_F.id [delete: cascade] 
+
+Table ElementosTabelaPeriodica as ETP [headercolor: #d35400] {
+  sigla varchar(10) [pk]
+  objeto json
+}
+
+Table Administrador as ADM {
+  id int [pk, increment]
+  nome varchar
+  email varchar(255) [unique, not null]
+  cpf varchar(14) [unique, not null]
+  telefone varchar
+  senha varchar
+  tipo varchar(50)
+}

@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Li",
+    "Nome": "Lítio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 1,
+        "Nome": "Metal alcalino"
+    },
+    "Período": 2,
+    "Configuração eletrônica": "1s2 2s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 1,
+            "p": 0
+        },
+        "m": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "n": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalinos",
+    "Número atômico": 3,
+    "Composição do átomo": {
+        "Elétrons": 3,
+        "Nêutrons": 4,
+        "Prótons": 3
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 6.938,
+            "max": 6.997
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 152,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 0.535,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 180.5,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 1342,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1,
+        "Unidade De Medida": "eV"
+    }
+}

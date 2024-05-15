@@ -1,0 +1,82 @@
+{
+    "Simbolo": "Cu",
+    "Nome": "Cobre",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 11,
+        "Nome": "Grupo do cobre"
+    },
+    "Período": 4,
+    "Configuração eletrônica": "",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 1,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 0,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais de transição",
+    "Número atômico": 29,
+    "Composição do átomo": {
+        "Elétrons": 29,
+        "Nêutrons": 35,
+        "Prótons": 29
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 63.546,
+            "max": 63.546,
+            "mean": 63.546
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 128,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 8.96,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 1084.62,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2562,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.9,
+        "Unidade De Medida": "eV"
+    }
+}

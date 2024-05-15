@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Rb",
+    "Nome": "Rubídio",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 1,
+        "Nome": "Metais alcalinos"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s1",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 0,
+            "f": 0
+        },
+        "o": {
+            "s": 1,
+            "p": 0,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Metais alcalinos",
+    "Número atômico": 37,
+    "Composição do átomo": {
+        "Elétrons": 37,
+        "Nêutrons": 48,
+        "Prótons": 37
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 85.4678,
+            "max": 85.4678
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 248 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 1.532 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 39.31 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 688 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 0.82 ,
+        "Unidade De Medida": "eV"
+    }
+}

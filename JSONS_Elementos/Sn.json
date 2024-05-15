@@ -1,0 +1,81 @@
+{
+    "Simbolo": "Sn",
+    "Nome": "Estanho",
+    "Tipo": "Natural",
+    "Grupo": {
+        "Coluna": 14,
+        "Nome": "Grupo do carbono"
+    },
+    "Período": 5,
+    "Configuração eletrônica": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p2",
+    "Distribuição eletrônica": {
+        "k": {
+            "s": 2
+        },
+        "l": {
+            "s": 2,
+            "p": 6
+        },
+        "m": {
+            "s": 2,
+            "p": 6,
+            "d": 10
+        },
+        "n": {
+            "s": 2,
+            "p": 6,
+            "d": 10,
+            "f": 0
+        },
+        "o": {
+            "s": 2,
+            "p": 2,
+            "d": 0,
+            "f": 0
+        },
+        "p": {
+            "s": 0,
+            "p": 0,
+            "d": 0
+        },
+        "q": {
+            "s": 0,
+            "p": 0
+        }
+    },
+    "Classificação": "Metal",
+    "Subgrupo": "Outros metais",
+    "Número atômico": 50,
+    "Composição do átomo": {
+        "Elétrons": 50,
+        "Nêutrons": 69,
+        "Prótons": 50
+    },
+    "Massa atômica relativa": {
+        "Intervalo": {
+            "min": 118.71,
+            "max": 118.71
+        },
+        "Unidade De Medida": "u"
+    },
+    "Raio atômico calculado": {
+        "Valor": 140 ,
+        "Unidade De Medida": "pm"
+    },
+    "Densidade": {
+        "Valor": 7.287 ,
+        "Unidade De Medida": "g/cm³"
+    },
+    "Ponto de Fusão": {
+        "Valor": 231.93 ,
+        "Unidade De Medida": "°C"
+    },
+    "Ponto de Ebulição": {
+        "Valor": 2602 ,
+        "Unidade De Medida": "°C"
+    },
+    "Eletronegatividade": {
+        "Valor": 1.96 ,
+        "Unidade De Medida": "eV"
+    }
+}
